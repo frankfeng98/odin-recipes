@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+    text-align: center;
+    background-color: beige;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    text-align: left;
+    color:tomato;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main-page{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    background-color: bisque;
+    color:lightgoldenrodyellow;
+}
+
+.content-page{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color:black;
+}
+
+.description{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
